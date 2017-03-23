@@ -17,9 +17,10 @@
 package com.laojiang.utilslibrary.volley.util.comparator;
 
 
+import com.laojiang.utilslibrary.volley.util.Assert;
+
 import java.util.Comparator;
 
-import cn.com.bjhj.baseframework.utils.volley.util.Assert;
 
 /**
  * Compares objects based on an arbitrary class order. Allows objects to be sorted based

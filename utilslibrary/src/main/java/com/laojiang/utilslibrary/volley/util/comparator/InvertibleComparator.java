@@ -17,10 +17,11 @@
 package com.laojiang.utilslibrary.volley.util.comparator;
 
 
+import com.laojiang.utilslibrary.volley.util.Assert;
+
 import java.io.Serializable;
 import java.util.Comparator;
 
-import cn.com.bjhj.baseframework.utils.volley.util.Assert;
 
 /**
  * A decorator for a comparator, with an "ascending" flag denoting

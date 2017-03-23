@@ -17,9 +17,10 @@
 package com.laojiang.utilslibrary.volley.util.comparator;
 
 
+import com.laojiang.utilslibrary.volley.util.Assert;
+
 import java.util.Comparator;
 
-import cn.com.bjhj.baseframework.utils.volley.util.Assert;
 
 /**
  * A Comparator that will safely compare nulls to be lower or higher than
