@@ -47,4 +47,11 @@ dependencies {
     //finalhttp
     compile files('libs/afinal_0.5.1_bin.jar')
     compile files('libs/android-async-http-1.4.6.jar')
+
+
+    //图片选择器
+    compile 'cc.dagger:photopicker:1.0'
+    compile 'com.foamtrace:photopicker:1.0'
+    compile 'com.github.chrisbanes.photoview:library:1.2.4'
+    compile 'me.relex:photodraweeview:1.0.0'
 }
